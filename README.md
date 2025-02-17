@@ -1,9 +1,3 @@
-# Hello-World
-First Repository
-## Heading 1
-### Heading 2
-**Let's try bold**
-
 This is a sample of a good README.md file that can be used when describing a project. You can change the headings to fit yout needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program. Think of this as documentation for your project.
 
 ## Table of Contents
@@ -16,3 +10,13 @@ This is a sample of a good README.md file that can be used when describing a pro
  - [VERSIONING](#versioning)
 
 ## Project Title
+
+## Description
+
+## How to Run Program
+
+## Files Used
+
+## Additional Documentation
+
+## Versioning
